@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f65df86b.css",
+    "main.js": "/static/js/main.5571fe1e.js",
+    "static/media/contact.png": "/static/media/contact.4a752c275384b545fee5.png",
+    "static/media/staff.png": "/static/media/staff.1f719b56b5cb8a80efcf.png",
+    "static/media/solenoid.png": "/static/media/solenoid.1e355f086af979317e09.png",
+    "static/media/pads.png": "/static/media/pads.ab0dbd8398774a612066.png",
+    "static/media/bds.png": "/static/media/bds.3da1835bef799a547685.png",
+    "static/media/girl.png": "/static/media/girl.f8c46d982028f7df2f33.png",
+    "static/media/jones.png": "/static/media/jones.86c908094dc421328313.png",
+    "static/media/mesr.jpg": "/static/media/mesr.06cf87343dfc133d23bd.jpg",
+    "static/media/delivery.png": "/static/media/delivery.c15cda43779a65261f12.png",
+    "static/media/a9.png": "/static/media/a9.46deae9ac00a00ac2448.png",
+    "static/media/mobile.png": "/static/media/mobile.7f3bf11655406ba96891.png",
+    "static/media/major.png": "/static/media/major.9f4fbbfbe404023d1943.png",
+    "static/media/ecomm.png": "/static/media/ecomm.f9f71cf5d52ec9b34fd3.png",
+    "static/media/b2.png": "/static/media/b2.263a7ef454f9a6174d38.png",
+    "static/media/hath.png": "/static/media/hath.6fadbedf35ef4951c4bd.png",
+    "static/media/process.png": "/static/media/process.bafb26505af672c57de7.png",
+    "static/media/staf.png": "/static/media/staf.74d0095dcf9857b43387.png",
+    "static/media/footer.png": "/static/media/footer.4a037eb3d0540638684f.png",
+    "static/media/market.png": "/static/media/market.b31f303255b44fbced30.png",
+    "static/media/Glory-SemiBoldItalic.ttf": "/static/media/Glory-SemiBoldItalic.5986fcb931b1f5df7ad3.ttf",
+    "static/media/Glory-BoldItalic.ttf": "/static/media/Glory-BoldItalic.7d0ff3ac6b3e4945b300.ttf",
+    "static/media/Glory-MediumItalic.ttf": "/static/media/Glory-MediumItalic.fb01cc2169c5e6667c54.ttf",
+    "static/media/Glory-Medium.ttf": "/static/media/Glory-Medium.05fd4cedfcdcbc217ece.ttf",
+    "static/media/Glory-Regular.ttf": "/static/media/Glory-Regular.d5a31b39a1c524d96efe.ttf",
+    "static/media/Glory-SemiBold.ttf": "/static/media/Glory-SemiBold.2356278d68502e96f66c.ttf",
+    "static/media/Glory-Bold.ttf": "/static/media/Glory-Bold.f95e806f48ee2b4e7176.ttf",
+    "static/media/solution.png": "/static/media/solution.9bcef4bb28fd3d5a9bc8.png",
+    "static/media/white.png": "/static/media/white.084bf277efa8e34b42ed.png",
+    "static/media/about.png": "/static/media/about.a0a2862bc0496f080a06.png",
+    "static/media/logo.png": "/static/media/logo.6e5a744de20300d46cb2.png",
+    "index.html": "/index.html",
+    "main.f65df86b.css.map": "/static/css/main.f65df86b.css.map",
+    "main.5571fe1e.js.map": "/static/js/main.5571fe1e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f65df86b.css",
+    "static/js/main.5571fe1e.js"
+  ]
+}
